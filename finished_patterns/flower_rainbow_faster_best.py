@@ -12,7 +12,7 @@ t.hideturtle()
 t.speed(0)  # Set the turtle speed to the fastest
 
 # Generate 300 different colors
-num_colors = 300
+num_colors = 700
 colors = []
 for i in range(num_colors):
     hue = i / num_colors
